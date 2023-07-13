@@ -310,7 +310,7 @@ font-size: xx-large;
     z-index: 3;
     position: absolute;
     bottom: 145px;
-    left: 720px; 
+    left: 727px; 
     animation: aw2 1s infinite linear;
 }
 @keyframes aw2 {
@@ -327,8 +327,8 @@ font-size: xx-large;
     }
     .flag{
         position: absolute;
-        top: 333px;
-        left: 722px;
+        top: 340px;
+        left: 725px;
     }
     
 
