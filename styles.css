@@ -310,7 +310,7 @@ font-size: xx-large;
     z-index: 3;
     position: absolute;
     bottom: 145px;
-    left: 713px; 
+    left: 720px; 
     animation: aw2 1s infinite linear;
 }
 @keyframes aw2 {
